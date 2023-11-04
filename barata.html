@@ -35,7 +35,6 @@
 										<h1>A Barata</h1>
 									</header>
 
-									
 									<style>
 										.video-container {
 										  width: 30%; /* Defina a largura desejada */
@@ -45,6 +44,15 @@
 										.video-container video {
 										  width: 100%;
 										  height: auto;
+										}
+
+										/* Aumente a altura proporcionalmente */
+    									@media (max-width: 414px) {
+    									  .video-container{
+											width: 80%; /* Defina a largura desejada */
+										  	max-width: 800px; /* Largura máxima desejada */
+										  	margin: 0 auto; /* Centralize o container horizontalmente */
+										  }
 										}
 									  </style>
 									  </head>
@@ -133,7 +141,7 @@
 												<li><a href="essatalliberdade.html">Essa Tal Liberdade</a></li>
 											</ul>
 										</li>
-										<li><a href="https://lattes.cnpq.br/5664902349950084" target="_blank">Curriculum Lates</a></li>
+										<li><a href="https://lattes.cnpq.br/5664902349950084" target="_blank">Curriculum Lattes</a></li>
 										<!-- <li><a href="#">Etiam Dolore</a></li>
 										<li><a href="#">Adipiscing</a></li>
 										<li>
