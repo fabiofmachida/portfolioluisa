@@ -1,27 +1,30 @@
-Portfólio - Luisa Castro
+Editorial by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-"Olá, seja bem-vindo ao meu portfólio! Meu nome é Luisa Castro e sou professora especializada 
-em serviços de interpretação e tradução em Libras (Língua Brasileira de Sinais). Ao longo da 
-minha carreira, tenho dedicado meu tempo e energia a promover a comunicação inclusiva e a quebra 
-de barreiras linguísticas. Meu objetivo é facilitar a interação entre pessoas surdas e ouvintes, 
-permitindo que todos tenham acesso à informação e se conectem de forma eficaz. Neste portfólio, 
-você encontrará exemplos do meu trabalho e minha paixão por tornar o mundo mais acessível e inclusivo. 
-Fique à vontade para explorar e conhecer mais sobre minha experiência e os serviços que ofereço."
 
-"Hello, welcome to my portfolio! My name is Luisa Castro, and I am a specialized teacher in Sign 
-Language interpretation and translation services (Brazilian Sign Language - Libras). Throughout my 
-career, I have dedicated my time and energy to promoting inclusive communication and breaking down 
-language barriers. My goal is to facilitate interaction between deaf and hearing individuals, 
-enabling everyone to access information and connect effectively. In this portfolio, you will find 
-examples of my work and my passion for making the world more accessible and inclusive. 
-Feel free to explore and learn more about my experience and the services I offer."
+Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
+sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
+page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
+template I'd change it up a little. Enjoy :)
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
 
 Credits:
 
-	Fabio Machida | @machidafabio
+	Demo Images:
+		Unsplash (unsplash.com)
 
-	Demo Images: Unsplash (unsplash.com)
+	Icons:
+		Font Awesome (fontawesome.io)
 
-	Icons: Font Awesome (fontawesome.io)
-
-	Other:jQuery (jquery.com) Responsive Tools (github.com/ajlkn/responsive-tools)
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
